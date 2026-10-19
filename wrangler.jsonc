@@ -1,0 +1,9 @@
+// Cloudflare deploy settings. Only the site/ folder is published;
+// the rest of this repository (README, notes) is never uploaded.
+{
+  "name": "gikomba-plug",
+  "compatibility_date": "2026-10-01",
+  "assets": {
+    "directory": "./site"
+  }
+}
